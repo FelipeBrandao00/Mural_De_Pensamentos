@@ -53,6 +53,18 @@ h2 {
   transition: 0.5s ease;
 }
 
+.botao__desabilitado {
+  background: #7a7f87;
+  color: #ffffff;
+  max-width: 270px;
+  width: 250px;
+  padding: 1rem;
+  margin: 0 auto;
+  border: 2px solid #7a7f87;
+  border-radius: 10px;
+  transition: 0.5s ease;
+}
+
 .botao:hover {
   border: 2px solid #84eec1;
   color: #84eec1;
